@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-To put it simply, what excites me the most is turning nothing into new ideas, then giving them life with software.  
+To put it simply, what excites me the most is turning nothing into new ideas, then giving them life with software.<br>
 Learning more and expanding my skill set every day is a must.
 </p>
 
@@ -37,11 +37,11 @@ Learning more and expanding my skill set every day is a must.
 <b>Implemented with:</b> Node.js, Python, React, and more.
 </p>
 
-**Key Features For Now:**  
-- ⚡ Real-time note detection.
-- 📀 Offline analysis of note accuracy and tempo.  
-- 🎧 Accurate audio processing with Node.js + Python scripts.  
-- 🎼 Interactive React-based sheet music interface.   
+**Key Features:**  
+- ⚡ Real-time note detection  
+- 📀 Offline analysis of note accuracy and tempo  
+- 🎧 Accurate audio processing with Node.js + Python scripts  
+- 🎼 Interactive React-based sheet music interface  
 
 **Future Plans:**  
 - ✨ Integration of a <b>Machine Learning model</b> for polyphonic detection, enabling the app to evaluate multiple notes simultaneously.
@@ -73,8 +73,10 @@ Learning more and expanding my skill set every day is a must.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="32" alt="Bash" />
 </p>
 
+---
+
 ### ✨ Past Projects
 
 - 🎬 **ShowTime App** – University course project: collaboratively built a streaming platform like Netflix using C++ & Node.js (backend), React (web), and Android Studio with Java (mobile).  
-- 🎮 **Arkanoid Game** – Enhanced classic game using OOP principles and the observer pattern for modularity and scalability, developed as part of the OOP course.
+- 🎮 **Arkanoid Game** – Enhanced classic game using Java, OOP principles, and the observer pattern for modularity and scalability, developed as part of the OOP course.
 
