@@ -16,19 +16,26 @@ Here are some ideas to get you started:
 <h1 align="center">Hey there! My name is Eyal 👋</h1>
 
 <p align="center">
-🎓 Final semester <b>Computer Science</b> student at <b>Bar-Ilan University</b><br>
-💡 Passionate about <b>backend development</b>, <b>problem-solving</b>, and building <b>end-to-end applications</b><br>
+🎓 Final-semester <b>Computer Science</b> student at <b>Bar-Ilan University</b><br>
+💡 Passionate about <b>backend development</b>, <b>problem-solving</b>, and building <b>end-to-end applications</b>
 </p>
 
-<p align="center">To put it simply, the thing that excites me the most is turning nothing into new ideas, then giving it life with software.
-  Learning more and expanding my skill set by the day is a must.</p>
+<p align="center">
+To put it simply, what excites me the most is turning nothing into new ideas, then giving them life with software.  
+Learning more and expanding my skill set every day is a must.
+</p>
+
+---
 
 ### 🎯 Current Project I'm Working On
 
-🎵 **PlayRight**  
-A web app designed to help musicians improve their instrument performance by listening to their playing and providing real-time, professional feedback and scoring.
+<p>
+🎵 <b>PlayRight</b> — a web app designed to help musicians improve their instrument performance by listening to their playing and providing real-time, professional feedback and scoring.
+</p>
 
-**Implemented with:** Node.js, Python, React, and more.
+<p>
+<b>Implemented with:</b> Node.js, Python, React, and more
+</p>
 
 **Key Features:**  
 - 🎼 Live Note Detection  
@@ -36,8 +43,9 @@ A web app designed to help musicians improve their instrument performance by lis
 - ✨ Interactive User Experience  
 
 **Future Plans:**  
-- Integration of a **Machine Learning model** for polyphonic detection, enabling the app to evaluate multiple notes simultaneously.
+- Integration of a <b>Machine Learning model</b> for polyphonic detection, enabling the app to evaluate multiple notes simultaneously.
 
+---
 
 <h3 align="center">💻 Languages & Technologies</h3>
 
@@ -63,5 +71,4 @@ A web app designed to help musicians improve their instrument performance by lis
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="Linux" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="32" alt="Bash" />
 </p>
-
 
