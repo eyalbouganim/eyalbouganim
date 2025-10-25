@@ -73,3 +73,8 @@ Learning more and expanding my skill set every day is a must.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="32" alt="Bash" />
 </p>
 
+### ✨ Past Projects
+
+- 🎬 **ShowTime App** – University course project: collaboratively built a streaming platform like Netflix using C++ & Node.js (backend), React (web), and Android Studio with Java (mobile).  
+- 🎮 **Arkanoid Game** – Enhanced classic game using OOP principles and the observer pattern for modularity and scalability, developed as part of the OOP course.
+
