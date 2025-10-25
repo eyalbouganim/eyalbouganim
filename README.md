@@ -20,18 +20,13 @@ Here are some ideas to get you started:
 💡 Passionate about <b>backend development</b>, <b>problem-solving</b>, and building <b>end-to-end applications</b><br>
 </p>
 
-<p align="center">To put it simply, the thing that excites me the most is turning nothing into new ideas, then giving it life with software. Learning more and expanding my skills by the day is a must.</p>
+<p align="center">To put it simply, the thing that excites me the most is turning nothing into new ideas, then giving it life with software.
+  Learning more and expanding my skill set by the day is a must.</p>
 
 <p align="center">
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,asm" height="50" />
-  <br>
-  <!-- Web & Frontend -->
-  <img src="https://skillicons.dev/icons?i=javascript,react,html" height="50" />
-  <br>
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="50" />
-  <br>
-  <!-- Platforms & Tools -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,asm" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript,react,html" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=androidstudio,docker,linux,bash" height="50" />
 </p>
+
