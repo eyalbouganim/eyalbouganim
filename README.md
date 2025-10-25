@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **eyalbouganim/eyalbouganim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hey there!</h1>
+
+<h2 align="center">My name is Eyal</h2>
+
+<p align="center">
+🎓 Final semester <b>Computer Science</b> student at <b>Bar-Ilan University</b><br>
+💡 Passionate about <b>backend development</b>, <b>problem-solving</b>, and building <b>end-to-end applications</b><br>
+
+</p>
