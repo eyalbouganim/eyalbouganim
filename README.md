@@ -30,7 +30,7 @@ Learning more and expanding my skill set every day is a must.
 ### 🎯 Current Project I'm Working On
 
 <p>
-🎵 <b>PlayRight</b> — a web app designed to help musicians improve their instrument performance by listening to their playing and providing real-time, professional feedback and scoring.
+🎵 <b>PlayRight</b> — a smart web app designed to help musicians improve their instrument performance by listening to their playing and providing real-time, professional feedback and scoring, using Machine Learning.
 </p>
 
 <p>
