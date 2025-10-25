@@ -34,16 +34,17 @@ Learning more and expanding my skill set every day is a must.
 </p>
 
 <p>
-<b>Implemented with:</b> Node.js, Python, React, and more
+<b>Implemented with:</b> Node.js, Python, React, and more.
 </p>
 
-**Key Features:**  
-- 🎼 Live Note Detection  
-- 🎧 Accurate Audio Analysis  
-- ✨ Interactive User Experience  
+**Key Features For Now:**  
+- ⚡ Real-time note detection.
+- 📀 Offline analysis of note accuracy and tempo.  
+- 🎧 Accurate audio processing with Node.js + Python scripts.  
+- 🎼 Interactive React-based sheet music interface.   
 
 **Future Plans:**  
-- Integration of a <b>Machine Learning model</b> for polyphonic detection, enabling the app to evaluate multiple notes simultaneously.
+- ✨ Integration of a <b>Machine Learning model</b> for polyphonic detection, enabling the app to evaluate multiple notes simultaneously.
 
 ---
 
