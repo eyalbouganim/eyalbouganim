@@ -23,6 +23,22 @@ Here are some ideas to get you started:
 <p align="center">To put it simply, the thing that excites me the most is turning nothing into new ideas, then giving it life with software.
   Learning more and expanding my skill set by the day is a must.</p>
 
+### 🎯 Current Project I'm Working On
+
+🎵 **PlayRight**  
+A web app designed to help musicians improve their instrument performance by listening to their playing and providing real-time, professional feedback and scoring.
+
+**Implemented with:** Node.js, Python, React, and more.
+
+**Key Features:**  
+- 🎼 Live Note Detection  
+- 🎧 Accurate Audio Analysis  
+- ✨ Interactive User Experience  
+
+**Future Plans:**  
+- Integration of a **Machine Learning model** for polyphonic detection, enabling the app to evaluate multiple notes simultaneously.
+
+
 <h3 align="center">💻 Languages & Technologies</h3>
 
 <p align="center">
