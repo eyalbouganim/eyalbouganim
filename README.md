@@ -13,12 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey there!</h1>
-
-<h2 align="center">My name is Eyal</h2>
+<h1 align="center">Hey there! My name is Eyal 👋</h1>
 
 <p align="center">
 🎓 Final semester <b>Computer Science</b> student at <b>Bar-Ilan University</b><br>
 💡 Passionate about <b>backend development</b>, <b>problem-solving</b>, and building <b>end-to-end applications</b><br>
-To put it simply, the thing that excites me the most is turning nothing into new ideas, then giving it life with software. Learning more and expanding my skills is a must.
 </p>
+
+<p>To put it simply, the thing that excites me the most is turning nothing into new ideas, then giving it life with software. Learning more and expanding my skills is a must.</p>
