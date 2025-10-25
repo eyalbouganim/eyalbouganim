@@ -45,7 +45,7 @@ I love turning ideas into software and constantly expanding my skill set.
 
 ### ✨ Past Projects
 
-- 🎬 **ShowTime App** – University project: built a Netflix-like streaming platform with C++ & Node.js (backend), React (web), and Android Studio with Java (mobile).  
+- 🎬 **ShowTime App** – (Pinned as Netflix Part 4) University project: built a Netflix-like streaming platform with C++ & Node.js (backend), React (web), and Android Studio with Java (mobile).  
 - 🎮 **Arkanoid Game** – Enhanced classic game using Java, OOP, and the observer pattern for modularity and scalability.
 
 ---
