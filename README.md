@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 🎓 I just finished my <b>Computer Science</b> studies at <b>Bar-Ilan University</b><br>
-💡 Passionate about <b>backend development</b>, <b>problem-solving</b>, and building <b>end-to-end applications</b>
+💡 Passionate about <b>problem-solving</b> and building <b>end-to-end applications</b>, with a strong interest in <b>backend development</b> and <b>machine learning</b>.
 </p>
 
 <p align="center">
@@ -28,7 +28,9 @@ I love turning ideas into software and constantly expanding my skill set.
 
 ### ✨ Projects
 
-- 🎵 **PlayRight** - A containerized full-stack music practice platform deployed on Google Cloud, helping musicians improve their performance - Python, Node.js, React, ML, Docker and more.
+- 🎵 **PlayRight** - A containerized full-stack music practice platform deployed on Google Cloud Run (utilizing an NVIDIA L4 GPU) to provide detailed audio performance analysis. 
+  - **Key Features:** Built a real-time WebSocket architecture for real-time note detection, trained a 3-component GMM on the MAESTRO dataset to inject parameters into a C++ HMM Audio-to-Score Alignment pipeline, and implemented tempo timing deviation analysis using local linear regression.
+  - **Tech Stack:** Python, Node.js, React, C++, PostgreSQL, Docker, GCP.
 - 🎬 **ShowTime App** – (Pinned as Netflix Part 4) University project: built a Netflix-like streaming platform with C++ & Node.js (backend), React (web), and Android Studio with Java (mobile).  
 - 🎮 **Arkanoid Game** – Enhanced classic game using Java, OOP, and the observer pattern for modularity and scalability.
 
@@ -37,7 +39,6 @@ I love turning ideas into software and constantly expanding my skill set.
 <h3 align="center">💻 Languages & Technologies</h3>
 
 <p align="center">
-  <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" alt="C" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="C++" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="Java" />&nbsp;&nbsp;
@@ -49,7 +50,6 @@ I love turning ideas into software and constantly expanding my skill set.
 </p>
 
 <p align="center">
-  <!-- Databases & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" alt="MongoDB" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="PostgreSQL" />&nbsp;&nbsp;
@@ -58,5 +58,3 @@ I love turning ideas into software and constantly expanding my skill set.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="Linux" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="32" alt="Bash" />
 </p>
-
-
