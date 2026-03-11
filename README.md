@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey there! My name is Eyal 👋</h1>
+<h1 align="center">Hey there! My name is Eyal</h1>
 
 <p align="center">
-🎓 Final-semester <b>Computer Science</b> student at <b>Bar-Ilan University</b><br>
+🎓 I just finished my <b>Computer Science</b> studies at <b>Bar-Ilan University</b><br>
 💡 Passionate about <b>backend development</b>, <b>problem-solving</b>, and building <b>end-to-end applications</b>
 </p>
 
@@ -26,25 +26,9 @@ I love turning ideas into software and constantly expanding my skill set.
 
 ---
 
-### 🎯 Current Project
+### ✨ Projects
 
-<p>
-🎵 <b>PlayRight</b> — a web app helping musicians improve their performance with real-time and offline feedback using Node.js, Python, React, and Machine Learning.
-</p>
-
-**Key Features:**  
-- ⚡ Real-time note detection  
-- 📀 Offline analysis of note accuracy and tempo  
-- 🎧 Audio processing with Node.js + Python  
-- 🎼 Interactive React-based sheet music interface  
-
-**Future Plans:**  
-- ✨ ML model for polyphonic detection to evaluate multiple notes simultaneously
-
----
-
-### ✨ Past Projects
-
+- 🎵 **PlayRight** - A containerized full-stack music practice platform deployed on Google Cloud, helping musicians improve their performance - Python, Node.js, React, ML, Docker and more.
 - 🎬 **ShowTime App** – (Pinned as Netflix Part 4) University project: built a Netflix-like streaming platform with C++ & Node.js (backend), React (web), and Android Studio with Java (mobile).  
 - 🎮 **Arkanoid Game** – Enhanced classic game using Java, OOP, and the observer pattern for modularity and scalability.
 
