@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <p align="center">
 🎓 I just finished my <b>Computer Science</b> studies at <b>Bar-Ilan University</b><br>
 💡 Passionate about <b>problem-solving</b> and building <b>end-to-end applications</b>, with a strong interest in <b>backend development</b> and <b>machine learning</b>.
+🌱 Outside of tech, I enjoy <b>music</b>, <b>exercising</b>, and <b>reading</b>.
 </p>
 
 <p align="center">
